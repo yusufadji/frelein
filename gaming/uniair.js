@@ -6,6 +6,6 @@ var 7936882821 = new Vue({
     color: 'PURPLE',
     centerSkill: 'Skill activation rate 2.25 times.',
     skillType: 'Combo Support',
-    skill: '22% chance to continue combo every 9 seconds for 8 seconds on GOOD, BAD, or MISS.',
+    skill: '22% chance to continue combo every 9 seconds for 8 seconds on GOOD, BAD, or MISS.'
   }
 })
