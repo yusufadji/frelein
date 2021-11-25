@@ -54,7 +54,7 @@ function makeJSON() {
     innerValue["publisher_website"] = document.getElementById('publisher_website').value;
     innerValue["privacy_policy_website"] = document.getElementById('privacy_policy_website').value;
     innerValue["license_agreement_website"] = document.getElementById('license_agreement_website').value;
-    innerValue["animated"] = document.getElementById('animated').checked;
+    innerValue["animated_sticker_pack"] = document.getElementById('animated').checked;
     innerValue["stickers"] = [];
     innerValue["stickers"] = jsonObj;
     mainArray["sticker_packs"].push(innerValue);
