@@ -36,8 +36,8 @@ function makeJSON() {
             item = {};
             item["image_file"] = fileObj.files[i].name;
             item["emojis"] = [];
-            item["emojis"].push("");
-            item["emojis"].push("");
+            item["emojis"].push("😄");
+            item["emojis"].push("🙂");
             jsonObj.push(item);
         }
     }
