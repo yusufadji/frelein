@@ -1,0 +1,426 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "katoshi1",
+      "name": "Kato Shiho",
+      "publisher": "frelein_sama",
+      "tray_image_file": "tray_katoshi.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"admin@frelein.my.id",
+      "publisher_website": "http://link.frelein.my.id/homepage",
+      "privacy_policy_website": "http://link.frelein.my.id/privacy-policy",
+      "license_agreement_website": "http://link.frelein.my.id/donasi",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "katoshi_1.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_2.webp",
+          "emojis": ["😞","😡"]
+        },
+        {
+          "image_file": "katoshi_3.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_4.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_5.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_6.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_7.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_8.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_9.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_10.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_11.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_12.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_13.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_14.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_15.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_16.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_17.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_18.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_19.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_20.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_21.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_22.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_23.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_24.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_25.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_26.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_27.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_28.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_29.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_30.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        }
+      ]
+    },
+    {
+      "identifier": "katoshi2",
+      "name": "Kato Shiho",
+      "publisher": "frelein_sama",
+      "tray_image_file": "tray_katoshi.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"admin@frelein.my.id",
+      "publisher_website": "http://link.frelein.my.id/homepage",
+      "privacy_policy_website": "http://link.frelein.my.id/privacy-policy",
+      "license_agreement_website": "http://link.frelein.my.id/donasi",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "katoshi_1.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_2.webp",
+          "emojis": ["😞","😡"]
+        },
+        {
+          "image_file": "katoshi_3.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_4.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_5.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_6.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_7.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_8.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_9.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_10.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_11.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_12.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_13.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_14.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_15.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_16.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_17.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_18.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_19.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_20.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_21.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_22.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_23.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_24.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_25.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        }
+      ]
+    },
+    {
+      "identifier": "katoshi3",
+      "name": "Kato Shiho",
+      "publisher": "frelein_sama",
+      "tray_image_file": "tray_katoshi.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"admin@frelein.my.id",
+      "publisher_website": "http://link.frelein.my.id/homepage",
+      "privacy_policy_website": "http://link.frelein.my.id/privacy-policy",
+      "license_agreement_website": "http://link.frelein.my.id/donasi",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "katoshi_1.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_2.webp",
+          "emojis": ["😞","😡"]
+        },
+        {
+          "image_file": "katoshi_3.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_4.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_5.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_6.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_7.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_8.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_9.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_10.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_11.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_12.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_13.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_14.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_15.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_16.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_17.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_18.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_19.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_20.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_21.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_22.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_23.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_24.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        }
+      ]
+    },
+    {
+      "identifier": "katoshi4",
+      "name": "Kato Shiho",
+      "publisher": "frelein_sama",
+      "tray_image_file": "tray_katoshi.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"admin@frelein.my.id",
+      "publisher_website": "http://link.frelein.my.id/homepage",
+      "privacy_policy_website": "http://link.frelein.my.id/privacy-policy",
+      "license_agreement_website": "http://link.frelein.my.id/donasi",
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "katoshi_1.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_2.webp",
+          "emojis": ["😞","😡"]
+        },
+        {
+          "image_file": "katoshi_3.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_4.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_5.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_6.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_7.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_8.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_9.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_10.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        },
+        {
+          "image_file": "katoshi_11.webp",
+          "emojis": ["❤","\uD83D\uDE01"]
+        }
+      ]
+    }
+  ]
+}
