@@ -8,7 +8,7 @@
             "coin": null,
             "algo": null,
             "url": "stratum-ravencoin.flypool.org:3333",
-            "user": "RVN:RMiDBGMFvgmix855YhkHe7hnraC2tRTSLg:stb1",
+            "user": "RMiDBGMFvgmix855YhkHe7hnraC2tRTSLg",
             "pass": "x",
             "tls": false,
             "keepalive": true,
