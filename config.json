@@ -7,8 +7,8 @@
         {
             "coin": null,
             "algo": null,
-            "url": "rx.unmineable.com:3333",
-            "user": "RVN:RMiDBGMFvgmix855YhkHe7hnraC2tRTSLg:stb1",
+            "url": "stratum-ravencoin.flypool.org:3333",
+            "user": "RMiDBGMFvgmix855YhkHe7hnraC2tRTSLg",
             "pass": "x",
             "tls": false,
             "keepalive": true,
