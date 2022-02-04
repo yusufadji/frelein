@@ -14,10 +14,10 @@ musicList = radio_wrapper.querySelector(".music-list"),
 moreMusicBtn = radio_wrapper.querySelector("#more-music"),
 closemoreMusic = musicList.querySelector("#close");
 
-let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
 isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
+  let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
   loadMusic(musicIndex);
   playingSong(); 
 });
