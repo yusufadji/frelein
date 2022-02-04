@@ -136,7 +136,7 @@ function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
   musicDate.innerText = allMusic[indexNumb - 1].radio_oa;
-  musicImg.src = `${allMusic[indexNumb - 1].img}?profile=radioimg`;
+  musicImg.setAttribute("data-src","${allMusic[indexNumb - 1].img}?profile=radioimg");
   mainAudio.src = `${allMusic[indexNumb - 1].src}`;
 }
 
