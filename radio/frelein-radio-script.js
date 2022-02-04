@@ -17,95 +17,11 @@ closemoreMusic = musicList.querySelector("#close");
 //Playlist radio
 let allMusic = [
   {
-    name: "TOKYO FM - HOIMIIPAN #1",
+    name: "TOKYO FM - HOIMIIPAN #14",
     artist: "Sasaki Mirei",
-    radio_oa: "5 November 2021",
+    radio_oa: "4 Februari 2022",
     img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1Gu9OtTgY5aU8bTCI_KsNwXGVTDFOO7px",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #2",
-    artist: "Sasaki Mirei",
-    radio_oa: "12 November 2021",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1994gzTL1kv41hXl6mnjQ2z253AEHM1mF",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #3",
-    artist: "Sasaki Mirei",
-    radio_oa: "19 November 2021",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1JnBym36dYR1Oi4_8_qWkbBr7byl8if-U",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #4",
-    artist: "Sasaki Mirei",
-    radio_oa: "26 November 2021",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1IeHBo2xMe2mu5ndLPXZDf2xOqKqGHva3",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #5",
-    artist: "Sasaki Mirei",
-    radio_oa: "3 Desember 2021",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1etBa1Z8J9gKFXiT2qGIjAF-ERou8roBX",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #6",
-    artist: "Sasaki Mirei",
-    radio_oa: "10 Desember 2021",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1PQEd5FrV3c-J7EZjnBkv5XNc0d9g0vV0",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #7",
-    artist: "Sasaki Mirei",
-    radio_oa: "17 Desember 2021",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1AEnUIl-8gKgbgA-tYZuvvNgqGNjuuhDN",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #8",
-    artist: "Sasaki Mirei",
-    radio_oa: "24 Desember 2021",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1hGo9naH8Lg01jbGvRFNU-1_uVBxdx0ik",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #9",
-    artist: "Sasaki Mirei",
-    radio_oa: "31 Desember 2021",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1IGIYJS9YMBGO445DqR2lk2ruI_Yqljpk",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #10",
-    artist: "Sasaki Mirei",
-    radio_oa: "7 Januari 2022",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1pr9qclg7YnCcAMw6zVicSKIHLspAU3m-",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #11",
-    artist: "Sasaki Mirei",
-    radio_oa: "14 Januari 2022",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=12AvsS8iQojSUC1hqimYuFczXiN_rQZ4z",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #12",
-    artist: "Sasaki Mirei",
-    radio_oa: "21 Januari 2022",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1hOXfOnsg-mI_B9wZWsm1MHvv9ForsYbe",
-  },
-  {
-    name: "TOKYO FM - HOIMIIPAN #13",
-    artist: "Sasaki Mirei",
-    radio_oa: "28 Januari 2022",
-    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1z10B-ZKL4Qt6WB7VwrIpNka1fA8rwDiy",
+    src: "https://docs.google.com/uc?export=open&id=1bKd1c9eshTm1ZqtXcAvHsZH6uubzGOVx",
   },
   {
     name: "Rekomen (レコメン!)",
@@ -115,11 +31,95 @@ let allMusic = [
     src: "https://docs.google.com/uc?export=open&id=17ZchypBynX5jLoLl5n3wCIQyvv8ELeJH",
   },
   {
-    name: "TOKYO FM - HOIMIIPAN #14",
+    name: "TOKYO FM - HOIMIIPAN #13",
     artist: "Sasaki Mirei",
-    radio_oa: "4 Februari 2022",
+    radio_oa: "28 Januari 2022",
     img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
-    src: "https://docs.google.com/uc?export=open&id=1bKd1c9eshTm1ZqtXcAvHsZH6uubzGOVx",
+    src: "https://docs.google.com/uc?export=open&id=1z10B-ZKL4Qt6WB7VwrIpNka1fA8rwDiy",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #12",
+    artist: "Sasaki Mirei",
+    radio_oa: "21 Januari 2022",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1hOXfOnsg-mI_B9wZWsm1MHvv9ForsYbe",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #11",
+    artist: "Sasaki Mirei",
+    radio_oa: "14 Januari 2022",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=12AvsS8iQojSUC1hqimYuFczXiN_rQZ4z",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #10",
+    artist: "Sasaki Mirei",
+    radio_oa: "7 Januari 2022",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1pr9qclg7YnCcAMw6zVicSKIHLspAU3m-",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #9",
+    artist: "Sasaki Mirei",
+    radio_oa: "31 Desember 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1IGIYJS9YMBGO445DqR2lk2ruI_Yqljpk",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #8",
+    artist: "Sasaki Mirei",
+    radio_oa: "24 Desember 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1hGo9naH8Lg01jbGvRFNU-1_uVBxdx0ik",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #7",
+    artist: "Sasaki Mirei",
+    radio_oa: "17 Desember 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1AEnUIl-8gKgbgA-tYZuvvNgqGNjuuhDN",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #6",
+    artist: "Sasaki Mirei",
+    radio_oa: "10 Desember 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1PQEd5FrV3c-J7EZjnBkv5XNc0d9g0vV0",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #5",
+    artist: "Sasaki Mirei",
+    radio_oa: "3 Desember 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1etBa1Z8J9gKFXiT2qGIjAF-ERou8roBX",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #4",
+    artist: "Sasaki Mirei",
+    radio_oa: "26 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1IeHBo2xMe2mu5ndLPXZDf2xOqKqGHva3",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #3",
+    artist: "Sasaki Mirei",
+    radio_oa: "19 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1JnBym36dYR1Oi4_8_qWkbBr7byl8if-U",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #2",
+    artist: "Sasaki Mirei",
+    radio_oa: "12 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1994gzTL1kv41hXl6mnjQ2z253AEHM1mF",
+  },
+  {
+    name: "TOKYO FM - HOIMIIPAN #1",
+    artist: "Sasaki Mirei",
+    radio_oa: "5 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1Gu9OtTgY5aU8bTCI_KsNwXGVTDFOO7px",
   },
 ];
 
@@ -136,7 +136,7 @@ function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
   musicDate.innerText = allMusic[indexNumb - 1].radio_oa;
-  musicImg.setAttribute("data-src","${allMusic[indexNumb - 1].img}?profile=radioimg");
+  musicImg.setAttribute("data-src",allMusic[indexNumb - 1].img + "?profile=radioimg");
   mainAudio.src = `${allMusic[indexNumb - 1].src}`;
 }
 
