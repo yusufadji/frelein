@@ -359,10 +359,10 @@ window.addEventListener("load", ()=>{
   musicName.innerText = allMusic[musicIndex].name;
   musicArtist.innerText = allMusic[musicIndex].artist;
   musicDate.innerText = allMusic[musicIndex].radio_oa;
-  musicImg.setAttribute = ("data-src",`${allMusic[musicIndex].img}`);
-  musicImg.setAttribute = ("alt",allMusic[musicIndex].name);
-  musicImg.setAttribute = ("title",allMusic[musicIndex].name);
   mainAudio.src = `${allMusic[musicIndex].src}`;
+  musicImg.alt = allMusic[indexNumb - 1].name;
+  musicImg.title = allMusic[indexNumb - 1].name;
+  musicImg.setAttribute("data-src",`${allMusic[musicIndex].img}`);
   playingSong(); 
 });
 
@@ -370,9 +370,9 @@ function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
   musicDate.innerText = allMusic[indexNumb - 1].radio_oa;
+  musicImg.alt = allMusic[indexNumb - 1].name;
+  musicImg.title = allMusic[indexNumb - 1].name;
   musicImg.src = `${allMusic[indexNumb - 1].img}`;
-  musicImg.setAttribute = ("alt",allMusic[indexNumb - 1].name);
-  musicImg.setAttribute = ("title",allMusic[indexNumb - 1].name);
   mainAudio.src = `${allMusic[indexNumb - 1].src}`;
 }
 
