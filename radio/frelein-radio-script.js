@@ -353,7 +353,6 @@ isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
   loadMusic(musicIndex);
-  musicImg.setAttribute("data-src",allMusic[musicIndex].img);
   playingSong(); 
 });
 
@@ -364,6 +363,7 @@ function loadMusic(indexNumb){
   musicImg.alt = allMusic[indexNumb - 1].name;
   musicImg.title = allMusic[indexNumb - 1].name;
   musicImg.src = `${allMusic[indexNumb - 1].img}`;
+  musicImg.setAttribute("data-src",`${allMusic[indexNumb - 1].img}`);
   mainAudio.src = `${allMusic[indexNumb - 1].src}`;
 }
 
