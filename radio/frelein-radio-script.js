@@ -348,7 +348,7 @@ let allMusic = [
 ];
 
 //Radio controller
-musicIndex = 0;
+musicIndex = 1;
 isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
