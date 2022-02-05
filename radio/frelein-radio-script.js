@@ -352,17 +352,8 @@ musicIndex = 0;
 isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
-  // Random initiator
-  // loadMusic(musicIndex);
-
-  // Initiator with latest data
-  musicName.innerText = allMusic[musicIndex].name;
-  musicArtist.innerText = allMusic[musicIndex].artist;
-  musicDate.innerText = allMusic[musicIndex].radio_oa;
-  mainAudio.src = `${allMusic[musicIndex].src}`;
-  musicImg.alt = allMusic[indexNumb - 1].name;
-  musicImg.title = allMusic[indexNumb - 1].name;
-  musicImg.setAttribute("data-src",`${allMusic[musicIndex].img}`);
+  loadMusic(musicIndex);
+  musicImg.setAttribute("data-src",allMusic[musicIndex].img);
   playingSong(); 
 });
 
