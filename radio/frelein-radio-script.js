@@ -352,9 +352,19 @@ musicIndex = 1;
 isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
-  loadMusic(musicIndex);
+  firstLoad(musicIndex);
   playingSong(); 
 });
+
+function firstLoad(indexNumb){
+  musicName.innerText = allMusic[indexNumb - 1].name;
+  musicArtist.innerText = allMusic[indexNumb - 1].artist;
+  musicDate.innerText = allMusic[indexNumb - 1].radio_oa;
+  musicImg.alt = allMusic[indexNumb - 1].name;
+  musicImg.title = allMusic[indexNumb - 1].name;
+  musicImg.setAttribute("data-src",`${allMusic[indexNumb - 1].img}`);
+  mainAudio.src = `${allMusic[indexNumb - 1].src}`;
+}
 
 function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
