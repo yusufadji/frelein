@@ -16,6 +16,13 @@ closemoreMusic = musicList.querySelector("#close");
 
 //Playlist radio
 let allMusic = [
+  // {
+  //   name: "AAAAAAAAAAA",
+  //   artist: "AAAAAAAAAAA",
+  //   radio_oa: "AAAAAAAAAAA",
+  //   img: "AAAAAAAAAAA",
+  //   src: "https://docs.google.com/uc?export=open&id=AAAAAAAAAAA",
+  // },
   {
     name: "TOKYO FM - HOIMIIPAN #14",
     artist: "Sasaki Mirei",
@@ -94,11 +101,25 @@ let allMusic = [
     src: "https://docs.google.com/uc?export=open&id=1etBa1Z8J9gKFXiT2qGIjAF-ERou8roBX",
   },
   {
+    name: "TOKYO FM - KOSAKANA RADIO #31",
+    artist: "Kosaka Nao",
+    radio_oa: "29 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1-KD2ctghDzXehXXDambCOZbLiUsjtOsF",
+  },
+  {
     name: "TOKYO FM - HOIMIIPAN #4",
     artist: "Sasaki Mirei",
     radio_oa: "26 November 2021",
     img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
     src: "https://docs.google.com/uc?export=open&id=1IeHBo2xMe2mu5ndLPXZDf2xOqKqGHva3",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #30",
+    artist: "Kosaka Nao",
+    radio_oa: "22 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1GuRa-ZAkmiw8HytkNIDtq_GaLZ4mZKbB",
   },
   {
     name: "TOKYO FM - HOIMIIPAN #3",
@@ -108,11 +129,25 @@ let allMusic = [
     src: "https://docs.google.com/uc?export=open&id=1JnBym36dYR1Oi4_8_qWkbBr7byl8if-U",
   },
   {
+    name: "TOKYO FM - KOSAKANA RADIO #29",
+    artist: "Kosaka Nao",
+    radio_oa: "15 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1mO9kg5gISwM0qIVv9JIjAGP6qdfkPzZ9",
+  },
+  {
     name: "TOKYO FM - HOIMIIPAN #2",
     artist: "Sasaki Mirei",
     radio_oa: "12 November 2021",
     img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
     src: "https://docs.google.com/uc?export=open&id=1994gzTL1kv41hXl6mnjQ2z253AEHM1mF",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #28",
+    artist: "Kosaka Nao",
+    radio_oa: "8 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1WkdYLIPKxvjn7FCX5nc4uuIshTxBV_Q1",
   },
   {
     name: "TOKYO FM - HOIMIIPAN #1",
@@ -121,17 +156,199 @@ let allMusic = [
     img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
     src: "https://docs.google.com/uc?export=open&id=1Gu9OtTgY5aU8bTCI_KsNwXGVTDFOO7px",
   },
-  // {
-  //   name: "AAAAAAAAAAA",
-  //   artist: "AAAAAAAAAAA",
-  //   radio_oa: "AAAAAAAAAAA",
-  //   img: "AAAAAAAAAAA",
-  //   src: "AAAAAAAAAAA",
-  // },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #27",
+    artist: "Kosaka Nao",
+    radio_oa: "1 November 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1Ucqzkv9DE_iLJzWBsG20FWffFEP5qAk4",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #26",
+    artist: "Kosaka Nao",
+    radio_oa: "24 September 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1NGJ6QZYiJepV_GUAxhzx0-ZyiOE-BgyJ",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #25",
+    artist: "Kosaka Nao",
+    radio_oa: "17 September 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=15eNA5H-ZMP1WI9xgl4MNu0CQfumwxmQa",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #24",
+    artist: "Kosaka Nao",
+    radio_oa: "10 September 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1JP56PmIM_sNKGD3OwtLrPUBdZfDE-k5m",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #23",
+    artist: "Kosaka Nao",
+    radio_oa: "3 September 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1pbJOhsflIm3Vzoi2NGqWIndlDmahKLMw",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #22",
+    artist: "Kosaka Nao",
+    radio_oa: "27 Agustus 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1qAlpiRcQOT5k2DJnII7q-M64KPBTT84y",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #21",
+    artist: "Kosaka Nao",
+    radio_oa: "20 Agustus 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1qAlpiRcQOT5k2DJnII7q-M64KPBTT84y",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #20",
+    artist: "Kosaka Nao",
+    radio_oa: "13 Agustus 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1PVHx7ub8DQ7HX2OWvmJxE7ioDGzvkBd3",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #19",
+    artist: "Kosaka Nao",
+    radio_oa: "6 Agustus 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1-pA1LeSQQ94zYfZpNS98XnwsUVnBOu2Q",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #18",
+    artist: "Kosaka Nao",
+    radio_oa: "30 Juli 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=13SgvhMF_tozYjS3no4UbJP0P3K4o8SBV",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #17",
+    artist: "Kosaka Nao",
+    radio_oa: "23 Juli 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1v8h0c7lsuni38nU7s1bkVcRjunQEBgyR",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #16",
+    artist: "Kosaka Nao",
+    radio_oa: "16 Juli 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1RBHQ9NTicE61z-O2ZWiF6aYCSZP9u4fG",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #15",
+    artist: "Kosaka Nao",
+    radio_oa: "9 Juli 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1jNEDWNZFn-WvO1Ngm57jCW6uhCYF2lEg",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #14",
+    artist: "Kosaka Nao",
+    radio_oa: "2 Juli 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1D3SpyzRCXLdx7N2YNITshezBPVGytPq3",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #13",
+    artist: "Kosaka Nao",
+    radio_oa: "25 Juni 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1eeeccMDZcpRCVNlGm-PiyLqjj1Yht_cc",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #12",
+    artist: "Kosaka Nao",
+    radio_oa: "18 Juni 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=19Hn7ySLOjI_w_6O2PaSKDke3aUyCrHDB",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #11",
+    artist: "Kosaka Nao",
+    radio_oa: "11 Juni 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=19A37tFw_HLVsC6oyCkeiv3oPqc0jl8QE",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #10",
+    artist: "Kosaka Nao",
+    radio_oa: "4 Juni 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1HDgCTgom_O9Fn8a1jrJ5HHc3UpOQDBJ7",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #9",
+    artist: "Kosaka Nao",
+    radio_oa: "28 Mei 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1uxz59_9t1VDOf8baeB6wZqBEAojVugoJ",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #8",
+    artist: "Kosaka Nao",
+    radio_oa: "21 Mei 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1RvIIOpy3LEmcGKzThrRWUWmeOe1uTpoD",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #7",
+    artist: "Kosaka Nao",
+    radio_oa: "14 Mei 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=15g8U8yVk2SHrXriMFDtCWV1AJTNu5MZA",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #6",
+    artist: "Kosaka Nao",
+    radio_oa: "7 Mei 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1CYr02J1TigMdzcEu1HC39ZWnVnRDeYaL",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #5",
+    artist: "Kosaka Nao",
+    radio_oa: "30 April 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=12DacPTtyWvDkjlSKkEom9tGLGSbCpAfI",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #4",
+    artist: "Kosaka Nao",
+    radio_oa: "23 April 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1Rz5LI8o7zlxI9Ax2BCRvCWjnh0Yahv3V",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #3",
+    artist: "Kosaka Nao",
+    radio_oa: "16 April 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1zpv6EU-q7wPhDnKK7UnUZMRdbiOIq3nM",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #2",
+    artist: "Kosaka Nao",
+    radio_oa: "9 April 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1m1RRYPnqGj3JUt6KMny3iNP6KZJHRDP8",
+  },
+  {
+    name: "TOKYO FM - KOSAKANA RADIO #1",
+    artist: "Kosaka Nao",
+    radio_oa: "2 April 2021",
+    img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/tfm-kosakana-radio.jpg",
+    src: "https://docs.google.com/uc?export=open&id=1PL5bzGb-HOe_a0Edc66-3tfXKLuzgS5z",
+  },
 ];
 
 //Radio controller
-let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
+musicIndex = 0;
 isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
@@ -139,13 +356,13 @@ window.addEventListener("load", ()=>{
   // loadMusic(musicIndex);
 
   // Initiator with latest data
-  musicName.innerText = allMusic[0].name;
-  musicArtist.innerText = allMusic[0].artist;
-  musicDate.innerText = allMusic[0].radio_oa;
-  musicImg.setAttribute = ("data-src",`${allMusic[0].img}`);
-  musicImg.setAttribute = ("alt",allMusic[0].name);
-  musicImg.setAttribute = ("title",allMusic[0].name);
-  mainAudio.src = `${allMusic[0].src}`;
+  musicName.innerText = allMusic[musicIndex].name;
+  musicArtist.innerText = allMusic[musicIndex].artist;
+  musicDate.innerText = allMusic[musicIndex].radio_oa;
+  musicImg.setAttribute = ("data-src",`${allMusic[musicIndex].img}`);
+  musicImg.setAttribute = ("alt",allMusic[musicIndex].name);
+  musicImg.setAttribute = ("title",allMusic[musicIndex].name);
+  mainAudio.src = `${allMusic[musicIndex].src}`;
   playingSong(); 
 });
 
