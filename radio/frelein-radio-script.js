@@ -121,6 +121,13 @@ let allMusic = [
     img: "https://avrecxjx.sirv.com/IayT6bKDAY/AJSKhfv9742/hoimiipan.jpg",
     src: "https://docs.google.com/uc?export=open&id=1Gu9OtTgY5aU8bTCI_KsNwXGVTDFOO7px",
   },
+  // {
+  //   name: "AAAAAAAAAAA",
+  //   artist: "AAAAAAAAAAA",
+  //   radio_oa: "AAAAAAAAAAA",
+  //   img: "AAAAAAAAAAA",
+  //   src: "AAAAAAAAAAA",
+  // },
 ];
 
 //Radio controller
@@ -128,7 +135,17 @@ let musicIndex = Math.floor((Math.random() * allMusic.length) + 1);
 isMusicPaused = true;
 
 window.addEventListener("load", ()=>{
-  loadMusic(musicIndex);
+  // Random initiator
+  // loadMusic(musicIndex);
+
+  // Initiator with latest data
+  musicName.innerText = allMusic[0].name;
+  musicArtist.innerText = allMusic[0].artist;
+  musicDate.innerText = allMusic[0].radio_oa;
+  musicImg.setAttribute = ("data-src",allMusic[0].img);
+  musicImg.setAttribute = ("alt",allMusic[0].name);
+  musicImg.setAttribute = ("title",allMusic[0].name);
+  mainAudio.src = `${allMusic[0].src}`;
   playingSong(); 
 });
 
@@ -136,7 +153,9 @@ function loadMusic(indexNumb){
   musicName.innerText = allMusic[indexNumb - 1].name;
   musicArtist.innerText = allMusic[indexNumb - 1].artist;
   musicDate.innerText = allMusic[indexNumb - 1].radio_oa;
-  musicImg.setAttribute("data-src",allMusic[indexNumb - 1].img + "?profile=radioimg");
+  musicImg.src = `${allMusic[indexNumb - 1].img}`;
+  musicImg.setAttribute = ("alt",allMusic[indexNumb - 1].name);
+  musicImg.setAttribute = ("title",allMusic[indexNumb - 1].name);
   mainAudio.src = `${allMusic[indexNumb - 1].src}`;
 }
 
