@@ -215,7 +215,7 @@
       "name": "Kato Shiho",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/2/tray.png",
-      "image_data_version":"2",
+      "image_data_version":"3",
       "avoid_cache":false,
       "publisher_email": "admin@frelein.my.id",
       "publisher_website": "https://www.frelein.my.id/",
@@ -385,6 +385,13 @@
         },
         {
           "image_file": "https://yusufadji.github.io/frelein/res/stickers/2/katoshi_24.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/2/katoshi_25.webp",
           "emojis": [
             "",
             ""
