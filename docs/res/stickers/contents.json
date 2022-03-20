@@ -5,6 +5,8 @@
       "name": "Kato Shiho",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/1/tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email": "admin@frelein.my.id",
       "publisher_website": "https://www.frelein.my.id/",
       "privacy_policy_website": "https://link.frelein.my.id/privacy-policy",
@@ -213,6 +215,8 @@
       "name": "Kato Shiho",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/2/tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email": "admin@frelein.my.id",
       "publisher_website": "https://www.frelein.my.id/",
       "privacy_policy_website": "https://link.frelein.my.id/privacy-policy",
@@ -392,27 +396,6 @@
             "",
             ""
           ]
-        },
-        {
-          "image_file": "https://yusufadji.github.io/frelein/res/stickers/2/katoshi_26.webp",
-          "emojis": [
-            "",
-            ""
-          ]
-        },
-        {
-          "image_file": "https://yusufadji.github.io/frelein/res/stickers/2/katoshi_27.webp",
-          "emojis": [
-            "",
-            ""
-          ]
-        },
-        {
-          "image_file": "https://yusufadji.github.io/frelein/res/stickers/2/katoshi_28.webp",
-          "emojis": [
-            "",
-            ""
-          ]
         }
       ]
     },
@@ -421,6 +404,8 @@
       "name": "Kato Shiho",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/3/tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email": "admin@frelein.my.id",
       "publisher_website": "https://www.frelein.my.id/",
       "privacy_policy_website": "https://link.frelein.my.id/privacy-policy",
@@ -601,6 +586,8 @@
       "name": "Kosaka Nao",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/4/tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email": "admin@frelein.my.id",
       "publisher_website": "https://www.frelein.my.id/",
       "privacy_policy_website": "https://link.frelein.my.id/privacy-policy",
@@ -795,6 +782,8 @@
       "name": "Kosaka Nao",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/5/tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
       "publisher_email": "admin@frelein.my.id",
       "publisher_website": "https://www.frelein.my.id/",
       "privacy_policy_website": "https://link.frelein.my.id/privacy-policy",
@@ -1005,6 +994,160 @@
         },
         {
           "image_file": "https://yusufadji.github.io/frelein/res/stickers/5/kosakana_30.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Takamoto Ayaka",
+      "publisher": "Frelein",
+      "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/6/tray.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email": "admin@frelein.my.id",
+      "publisher_website": "https://www.frelein.my.id/",
+      "privacy_policy_website": "https://link.frelein.my.id/privacy-policy",
+      "license_agreement_website": "https://link.frelein.my.id/donasi",
+      "stickers": [
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_1.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_2.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_3.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_4.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_5.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_6.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_7.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_8.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_9.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_10.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_11.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_12.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_13.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_14.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_15.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_16.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_17.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_18.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_19.webp",
+          "emojis": [
+            "",
+            ""
+          ]
+        },
+        {
+          "image_file": "https://yusufadji.github.io/frelein/res/stickers/6/otake_20.webp",
           "emojis": [
             "",
             ""
