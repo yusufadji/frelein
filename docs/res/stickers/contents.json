@@ -2,7 +2,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Kato Shiho",
+      "name": "Kato Shiho - Pack 1",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/1/tray.png",
       "image_data_version":"1",
@@ -212,7 +212,7 @@
     },
     {
       "identifier": "2",
-      "name": "Kato Shiho",
+      "name": "Kato Shiho - Pack 2",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/2/tray.png",
       "image_data_version":"3",
@@ -401,7 +401,7 @@
     },
     {
       "identifier": "3",
-      "name": "Kato Shiho",
+      "name": "Kato Shiho - Pack 3",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/3/tray.png",
       "image_data_version":"1",
@@ -583,7 +583,7 @@
     },
     {
       "identifier": "4",
-      "name": "Kosaka Nao",
+      "name": "Kosaka Nao - Pack 1",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/4/tray.png",
       "image_data_version":"1",
@@ -779,7 +779,7 @@
     },
     {
       "identifier": "5",
-      "name": "Kosaka Nao",
+      "name": "Kosaka Nao - Pack 2",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/5/tray.png",
       "image_data_version":"1",
@@ -1003,7 +1003,7 @@
     },
     {
       "identifier": "6",
-      "name": "Takamoto Ayaka",
+      "name": "Takamoto Ayaka - Pack 1",
       "publisher": "Frelein",
       "tray_image_file": "https://yusufadji.github.io/frelein/res/stickers/6/tray.png",
       "image_data_version":"1",
